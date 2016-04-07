@@ -1,1 +1,2 @@
-# DownloadPicture阿萨德发发
+# DownloadPicture
+自己写的图片下载工具类,包括启动异步任务下载图片,对图片进行三级缓存,设置成正方形,或圆角图片等.此工具类可以用在ListView中
