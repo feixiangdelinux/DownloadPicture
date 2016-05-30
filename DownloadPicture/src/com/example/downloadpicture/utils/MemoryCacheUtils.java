@@ -26,6 +26,7 @@ public class MemoryCacheUtils {
 
 	/**
 	 * 把图片保存到内存中
+	 * 
 	 * @param url
 	 * @param bitmap
 	 */
@@ -35,6 +36,7 @@ public class MemoryCacheUtils {
 
 	/**
 	 * 根据Url到内存中查找图片
+	 * 
 	 * @param url
 	 * @return
 	 */
